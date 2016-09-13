@@ -17,14 +17,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/gcanti/tcomb.git"
+    "url": "https://github.com/christophehurpeau/tcomb.git"
   },
   "author": "Giulio Canti <giulio.canti@gmail.com>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/gcanti/tcomb/issues"
   },
-  "homepage": "https://github.com/gcanti/tcomb",
+  "homepage": "https://github.com/christophehurpeau/tcomb",
   "devDependencies": {
     "benchmark": "2.1.0",
     "eslint": "1.10.3",
