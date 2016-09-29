@@ -11,7 +11,15 @@
 
 **Note**: Gaps between patch versions are faulty/broken releases.
 **Note**: A feature tagged as Experimental is in a high state of flux, you're at risk of it changing without notice.
-                  
+                
+# **Fork**: v3.4.0
+           
+- **New Feature**
+  - intersection clearer error
+  - [v3.2.14](#v3.2.14) Added support for overwriting `defaultProps` in `t.struct.extend`, fix #257 (@tehnomaag)  
+- **Bug Fix**
+  - [v3.2.15](#v3.2.15) replace `instanceof Array` with `Array.isArray`, fix #255 (@ewnd9)
+    
 # **Fork**: v3.3.0
            
 - **New Feature**
