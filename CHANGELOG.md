@@ -24,6 +24,16 @@
   - Promise type
 
 
+# v3.2.15
+
+- **New Feature**
+  - Added support for overwriting `defaultProps` in `t.struct.extend`, fix #257 (@tehnomaag)
+
+# v3.2.14
+
+- **Bug Fix**
+  - replace `instanceof Array` with `Array.isArray`, fix #255 (@ewnd9)
+
 # v3.2.13
 
 - **Bug Fix**
