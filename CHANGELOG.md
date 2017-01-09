@@ -32,6 +32,11 @@
   - Promise type
 
 
+# v3.2.16
+
+- **Bug Fix**
+  - strict structs with additional methods should not throw on updating, fix #267 (@gcanti)
+
 # v3.2.15
 
 - **New Feature**
