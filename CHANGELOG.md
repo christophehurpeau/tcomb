@@ -11,7 +11,14 @@
 
 **Note**: Gaps between patch versions are faulty/broken releases.
 **Note**: A feature tagged as Experimental is in a high state of flux, you're at risk of it changing without notice.
-                
+
+# **Fork**: v3.4.0
+                 
+- **Bug Fix**
+  - strict structs with additional methods should not throw on updating, fix #267 (@gcanti)
+
+- better intersection error message
+
 # **Fork**: v3.4.0
            
 - **New Feature**
