@@ -39,11 +39,11 @@ describe('t.intersection(types, [name])', function () {
 
       util.throwsWithMessage(function () {
         MinMax('a');
-      }, '[tcomb] Invalid value "a" supplied to Min in MinMax');
+      }, '[tcomb] Invalid value "a" supplied to MinMax: Invalid value "a" supplied to Min');
 
       util.throwsWithMessage(function () {
         MinMax('a', ['root']);
-      }, '[tcomb] Invalid value "a" supplied to Min in root');
+      }, '[tcomb] Invalid value "a" supplied to root: Invalid value "a" supplied to Min');
 
     });
 
